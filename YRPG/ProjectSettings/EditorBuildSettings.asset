@@ -5,72 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Levels/Passcode.unity
-    guid: 753b0a7272aa20433af566ef0f45eb68
-  - enabled: 0
-    path: Assets/NewAssets/SpaceShip_Hub.unity
-    guid: 813ffa58f25d74aa481035783e0c2191
-  - enabled: 0
-    path: Assets/NewAssets/SpaceHub_Controlroom.unity
-    guid: e4f195461483a4190b4d1f9a055d555e
-  - enabled: 0
-    path: Assets/Scenes/Menu.unity
-    guid: 28b084a47c5caec40bff6a7627137293
-  - enabled: 0
-    path: Assets/Scenes/Import.unity
-    guid: 4e268d1ea2b802e4aa8eb869dc2052ef
-  - enabled: 0
-    path: Assets/Scenes/Settings.unity
-    guid: d2f2efde13ecedc4c819006208da4600
-  - enabled: 0
-    path: Assets/Scenes/Selection.unity
-    guid: 3b25d85a76263404e88598bde3be306d
-  - enabled: 0
-    path: Assets/Scenes/Controls.unity
-    guid: d919782f4ab53b44d88c7ca124bca63b
-  - enabled: 0
-    path: Assets/Scenes/Levels/Level 1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 0
-    path: Assets/Scenes/Levels/Level2.unity
-    guid: 94a9218142bf4b847a69152da2ed5270
-  - enabled: 0
-    path: Assets/Scenes/Levels/Lvl2Map.unity
-    guid: 8509844e74f3b3646991e202b61bb89d
-  - enabled: 0
-    path: Assets/Scenes/Levels/Level 3.unity
-    guid: 03f341cb23db00d4198d79dd7fda5200
-  - enabled: 0
-    path: Assets/Scenes/Levels/Level3P2.unity
-    guid: 2cf1b0e5545fa114a81795d7d57f11bb
-  - enabled: 0
-    path: Assets/Scenes/Levels/Level4.unity
-    guid: 72ca4476a89ab4b4cac14405ce3c07ed
-  - enabled: 0
-    path: Assets/Scenes/Credits.unity
-    guid: d0bb0986b81470c4089afa00ea8390b2
-  - enabled: 0
-    path: Assets/Scenes/MoreLevelsSoon.unity
-    guid: a2879605d83256f4c98a3833a5568441
-  - enabled: 0
-    path: Assets/Scenes/OnlineBeta.unity
-    guid: e0bb59bccd897054a97322af27eef7a8
-  - enabled: 0
-    path: Assets/Scenes/Levels/Debug.unity
-    guid: 1952e985cc40b7b479116e2d6ceafaa3
-  - enabled: 0
-    path: Assets/Scenes/OnlineLobby.unity
-    guid: cb880da8969398145ab5e1b0183606a5
-  - enabled: 0
-    path: Assets/Loading.unity
-    guid: 3b5829bcf09897c43b53f71e972d30d8
-  - enabled: 0
-    path: Assets/LobbyCode.unity
-    guid: cce014301aa57fe4f872b1b5921c0fcf
-  - enabled: 0
-    path: Assets/OnlineGame.unity
-    guid: dc65d1b112ecf4e428db3bdebc128581
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: d7126ab9f07ef0f4cb43b0b6be0214ac
+  - enabled: 1
+    path: Assets/Scenes/Version Scenes/YRPG1/MainMenu.unity
+    guid: febca673b8f46ac42b9efc71f65dbfcf
   m_configObjects:
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 73748dac4f5d0b04681006a6f072d75c, type: 2}
   m_UseUCBPForAssetBundles: 0
